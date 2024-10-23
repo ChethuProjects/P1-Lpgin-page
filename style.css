@@ -1,0 +1,92 @@
+.Main{
+  padding: 30px 120px;
+    width: 400px;
+    height: 400px;
+    backdrop-filter: blur(5px);
+    border-radius: 00px;
+    background: rgba(49, 49, 49, .2);
+    border: 1px solid rgba(255, 255, 255, .5);
+    color: white;
+    font-weight: bolder;
+    
+    
+}
+
+
+
+body{display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(/pexels-vladalex94-1402787.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+ 
+ .head{
+   text-align: center;
+   color: white;
+ }
+
+
+.inputs{
+  display: flex;
+  flex-direction: column;
+  margin: 20px
+}
+
+#submit{
+  background-color: deepskyblue;
+  color: white;
+  height: 30px;
+  border-radius: 20px;
+  margin-top: -50px;
+}
+
+.input{
+  margin-top: 5px
+  
+}
+
+.input{
+  border: 1px solid blue;
+  height: 25px;
+  border-radius: 10px;
+  padding: 5px;
+  
+}
+
+
+.input{
+  border: 1px solid blue;
+  height: 25px;
+  border-radius: 30px;
+  padding: 5px;
+  
+}
+.create{
+  text-align: center;
+  margin-top: 10px;
+  padding: 2px;
+  color: white;
+  
+  
+}
+
+ 
+  .forgotpassword{
+    text-align: right;
+    margin-top: -30px;
+    display: block;
+    right: 20px;
+  }
+  
+  .rem{
+    text-align: left: ;;
+    margin-top:50;
+  }
+  
+  a{
+    text-decoration: ;
+    color: white;
+  }
