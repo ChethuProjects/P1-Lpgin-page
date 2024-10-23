@@ -18,7 +18,7 @@ body{display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/pexels-vladalex94-1402787.jpg);
+    background: url(pexels-vladalex94-1402787.jpg);
     background-size: cover;
     background-repeat: no-repeat
 }
